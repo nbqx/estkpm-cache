@@ -1,0 +1,31 @@
+{
+  "name": "estkpm-cache",
+  "version": "0.0.0",
+  "description": "caching js or jsx script with estkpm(extendscript package manger)",
+  "main": "index.js",
+  "bin": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/estkpm-cache.git"
+  },
+  "homepage": "https://github.com/nbqx/estkpm-cache",
+  "keywords": [
+    "adobe",
+    "extendscript",
+    "cui"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.34.0",
+    "level": "^0.18.0",
+    "underscore": "^1.6.0",
+    "moment": "^2.5.1",
+    "rimraf": "^2.2.6",
+    "async": "^0.2.10",
+    "yargs": "^1.2.1"
+  }
+}

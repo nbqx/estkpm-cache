@@ -1,0 +1,16 @@
+usage: estkpm-cache {OPTIONS} {COMMAND}
+
+  caching js or jsx script with estkpm(extendscript package manger)
+
+  COMMANDS:
+
+  list             Show local cached data
+  sync             Create cache in local database
+  flush            Flush database data
+  
+  OPTIONS:
+
+  -d, --db         Set database path
+  -c, --config     Set package.jsx path
+  -h, --help       Print this help message
+                  
